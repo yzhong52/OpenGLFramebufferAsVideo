@@ -5,4 +5,4 @@ This sample code shows how to save OpenGL framebuffer to a video using OpenCV. T
 
 The necessary libs and dlls are included in the project; therefore, you don't need to install OpenCV on your machine if you don't want to.  
 
-Read more [here](http://wp.me/p4ee71-o). 
+Read more [here](http://yzhong.co/?p=24). 
