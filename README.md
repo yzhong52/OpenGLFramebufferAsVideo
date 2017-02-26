@@ -1,4 +1,4 @@
-Save-OpenGL-Framebuffer-As-Video
+Save OpenGL Framebuffer As Video
 ================================
 
 We can save the OpenGL rendering result to a video using OpenCV buildt-in VideoWriter class. There are three steps:
@@ -31,7 +31,7 @@ We can save the OpenGL rendering result to a video using OpenCV buildt-in VideoW
 
     outputVideo.release();
 
-Sample Code On [Github](https://github.com/yzhong52/Save-OpenGL-Framebuffer-As-Video)
+Sample Code On [Github](https://github.com/yzhong52/Save-OpenGL-Framebuffer-As-Video). 
 
 This sample code shows how to save OpenGL framebuffer to a video using OpenCV. The openGL code is borrowed from [HeHe Lesson 05](http://nehe.gamedev.net/tutorial/3d_shapes/10035/).
 
